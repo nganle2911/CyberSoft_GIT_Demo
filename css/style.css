@@ -1,3 +1,16 @@
 h1{
     background-color: aquamarine;
 }
+
+.dev1 h1.title {
+    background-color: orange;
+}
+
+.dev1 p {
+    font-size: 20px;
+}
+
+.dev1 p > i {
+    font-size: 30px;
+}
+
